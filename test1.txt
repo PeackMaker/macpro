@@ -4,4 +4,7 @@ export M2_HOME=/usr/local/opt/maven@3.5/libexec
 export PATH=${PATH}:${M2_HOME}/bin
 export PATH="/usr/local/opt/gnupg@2.2/bin:$PATH"
 
-hello git 
+hello git
+
+
+hello hotfix merge 
